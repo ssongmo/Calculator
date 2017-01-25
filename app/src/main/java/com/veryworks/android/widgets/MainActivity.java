@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//
+/////
         // 2. 선언된 변수에 xml 의 위젯 id를 가져와서 담아준다.
         btnGrid = (Button) findViewById(R.id.btnGrid);
         calc = (Button) findViewById(R.id.calc);
